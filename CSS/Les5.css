@@ -1,0 +1,42 @@
+.sodoku .antwoord {
+    color:red;
+}
+.sodoku td {
+    width: 5em;
+    height: 5em;
+    background-color: white;
+    color: blue;
+    text-align: center;
+}
+table.sodoku, .sodoku td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.sodoku .links {
+    border-left: 1.5px solid black;
+}
+.sodoku .rechts {
+    border-right: 1.5px solid black;
+}
+.sodoku .boven {
+    border-top: 1.5px solid black;
+}
+.sodoku .onder {
+    border-bottom: 1.5px solid black;
+}
+article {
+    width: 50%;
+    float: left;
+    clear: left;
+    Text-align: left;
+    
+}
+aside {
+    width:50%;
+    float: right;
+    clear: right;
+    Text-align: left; 
+}
+header {
+    text-align: center;
+}

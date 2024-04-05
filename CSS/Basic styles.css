@@ -1,0 +1,42 @@
+body {
+    font-size: 20px;
+    font-family: arial,verdana,helvetica;
+    background-color: blue;
+    color: white;
+    padding: 20px;
+}
+nav {
+    text-align: center;
+}
+ul {
+    list-style-type: none; 
+}
+li {    
+    display: inline; 
+}
+li a {
+    display: inline-block; 
+    color: white; 
+    text-align: center; 
+    padding: 14px 16px; 
+    text-decoration: none;     
+}
+li a:hover {
+    background-color: yellow;
+    color: lightgreen;
+    text-decoration: none; 
+}
+li a:link {
+    color: white;
+}
+
+li a:active {
+    color: yellow;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+   } 
+
+

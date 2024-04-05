@@ -1,0 +1,39 @@
+header {
+    text-align: center  ;
+}
+
+p {
+    padding: 10%;
+}
+
+aside {
+    float: right;
+    width: 50%;
+    clear: right;
+}
+article {
+    width: 50%;
+    float: left;
+    clear: left;
+}
+
+aside img {
+    border-radius: 50%;
+}
+
+section {
+    width: 40%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#wrapper {
+	max-width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h3 {
+    text-align: center;
+}

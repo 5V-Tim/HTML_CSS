@@ -1,0 +1,26 @@
+/* Dit stijlblad is gemaakt in 2022*/
+header {
+    text-align: center;
+}
+
+body {
+    font-size: 100%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 180%;
+    font-family: Georgia, "Times New Roman", Times;
+}
+
+h2 {
+    text-align: center;
+    font-family: Georgia, "Times New Roman", Times;
+}
+
+p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;  
+}
+
+

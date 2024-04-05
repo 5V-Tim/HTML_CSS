@@ -1,0 +1,37 @@
+header#intro {
+    text-align: center;
+    font-size: 100%;
+    background-image: url("../Media/Banner.jpg");
+}
+
+ul {
+    font-size: 100%;
+}
+
+body {
+    font-size: 100%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 180%;
+    font-family: Georgia, "Times New Roman", Times;
+}
+
+h2 {
+    text-align: center;
+    font-family: Georgia, "Times New Roman", Times;
+}
+
+p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;  
+}
+p.intro{
+    color: #0051B2;
+    font-style: italic;
+    font-size: 130%;
+}
+hi.header {
+    font-size: 350%;
+}

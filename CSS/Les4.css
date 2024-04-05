@@ -1,0 +1,21 @@
+header {
+    text-align: center;
+}
+aside {
+    float: right;
+    width: 50%;
+    clear: right;
+}
+article {
+    width: 50%;
+    float: left;
+    clear: left;
+}
+
+a{
+    color: white;
+}
+
+section {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
